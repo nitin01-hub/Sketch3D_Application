@@ -39,7 +39,8 @@ Sketch3D/
 ├── shape.h/.cpp         # Shape data model (Triangle, Rectangle, Square)
 └── viewer3D.h/.cpp      # OpenGL 3D viewer widget
 ```
+<img width="1434" height="808" alt="image" src="https://github.com/user-attachments/assets/efb894de-0cd4-4964-9551-7f0cc80b26c1" />
+<img width="1439" height="814" alt="image" src="https://github.com/user-attachments/assets/7f173a51-b60b-489d-9524-06e105d7440e" />
 
-<img width="1440" height="900" alt="Screenshot 2026-04-05 at 8 25 33 PM" src="https://github.com/user-attachments/assets/1a00fa7a-9826-4894-a677-d6a7ef8a4527" />
-<img width="1440" height="900" alt="Screenshot 2026-04-05 at 8 25 38 PM" src="https://github.com/user-attachments/assets/8bac3150-b5fb-491e-810c-105ca4cd80f1" />
+
 
